@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mugimaasree/reactloginapp/static/css/main.7cfd8d1e.css",
+    "main.js": "/mugimaasree/reactloginapp/static/js/main.f0f23657.js",
+    "static/js/592.bf6ca574.chunk.js": "/mugimaasree/reactloginapp/static/js/592.bf6ca574.chunk.js",
+    "index.html": "/mugimaasree/reactloginapp/index.html",
+    "main.7cfd8d1e.css.map": "/mugimaasree/reactloginapp/static/css/main.7cfd8d1e.css.map",
+    "main.f0f23657.js.map": "/mugimaasree/reactloginapp/static/js/main.f0f23657.js.map",
+    "592.bf6ca574.chunk.js.map": "/mugimaasree/reactloginapp/static/js/592.bf6ca574.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cfd8d1e.css",
+    "static/js/main.f0f23657.js"
+  ]
+}
